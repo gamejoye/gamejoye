@@ -1,9 +1,5 @@
-- 👋 Hi, I’m @gamejoye
-- 👀 I’m interested in learning c lauguage and java
-- 🌱 I’m currently learning c lauguage
-
 qq:3032535923
-e-maia:3032535923@qq.com
+e-mail:3032535923@qq.com
 gmail:gamejoye@gmail.com
 
 <!---
