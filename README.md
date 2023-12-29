@@ -7,4 +7,4 @@
 - 🤖 others, i'm focusing on ml, acm algorithoms
 - [我的博客](https://gamejoye.top)
 
-![Gamejoye's GitHub stats](https://github-readme-stats.vercel.app/api?username=gamejoye)
+[![Gamejoye's GitHub stats](https://github-readme-stats.vercel.app/api?username=gamejoye)](https://github.com/anuraghazra/github-readme-stats)
